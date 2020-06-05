@@ -2,6 +2,12 @@
     cursor: pointer;
     color: #dd5;
 }
+tr:nth-child(even){
+    background: black;
+}
+tr:nth-child(odd){
+    background: rgb(30, 6, 248);
+}
 .warning {
     background-color: rgb(255, 72, 0);
 }
