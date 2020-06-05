@@ -2,10 +2,10 @@
     cursor: pointer;
     color: #dd5;
 }
-
 .warning {
-    background-color: purple;
+    background-color: rgb(255, 72, 0);
 }
+
 
 table {
   color: red;
